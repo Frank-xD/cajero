@@ -3,7 +3,8 @@ Este programa es para un cajero automatico el cual gestiona cuentas que a su ves
 - depositar dinero
 - extraer dinero
 - transferir 
-- ver la cantidad de dinero 
+- ver la cantidad de dinero
+  
 tambien podemos crear cuentas y sub cuentas nuevas desde el mismo programa asi como cambiar el PIN ver el registro de actividades que realizo el usuario,
 el programa tiene soporte para 3 idiomas Español, Ingles y Chino mandarin tradicional, a su ves los tipos de cambio son USD, BO, EUR, CNY.
 
