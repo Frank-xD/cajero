@@ -1,0 +1,30 @@
+02/06/2024 11:08:10;Transferencia;+696.0;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 11:08:10;Transferencia;-100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+02/06/2024 11:17:40;Deposito;+ 100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+02/06/2024 22:07:12;Retiro;-1;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+02/06/2024 22:11:00;Retiro;-3;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta4.txt
+02/06/2024 22:11:42;Retiro;-20;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta4.txt
+02/06/2024 22:13:36;Deposito;+ 10;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+02/06/2024 22:24:43;Transferencia;+10.057803468208093;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 22:24:43;Transferencia;-10;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta4.txt
+02/06/2024 22:25:48;Retiro;-0.57803468208;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 22:39:42;Deposito;+ 100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta3.txt
+02/06/2024 22:43:39;Deposito;+ 10;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 22:45:45;Deposito;+ 10;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 22:46:28;Deposito;+ 100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+02/06/2024 22:47:31;Deposito;+ 100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:16:14;Deposito;+ 4;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:16:38;Transferencia;+7.999999999999999;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:16:38;Transferencia;-8;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:16:47;Retiro;-85;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:17:37;Deposito;+41;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:38:52;Transferencia;+696.0;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:38:52;Transferencia;-100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+03/06/2024 11:46:38;Transferencia;+100.0;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 11:46:38;Transferencia;-100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 17:39:54;Transferencia;+764.8351648351647;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+03/06/2024 17:39:54;Transferencia;-100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta3.txt
+04/06/2024 14:24:38;Retiro;-209;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+04/06/2024 14:36:27;Deposito;+ 100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
+04/06/2024 14:43:28;Transferencia;+696.0;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta2.txt
+04/06/2024 14:43:28;Transferencia;-100;C:\Archivos gestor\Cuentas\1\Cuenta Ahorro\cuenta1.txt
