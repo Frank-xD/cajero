@@ -1,0 +1,9 @@
+Juan:Pérez:12345678:45:1
+María:García:87654321:9876:2
+Carlos:López:13579246:1111:3
+Ana:Martínez:24681357:9999:4
+Pedro:Rodríguez:36925814:5555:5
+cualequiera:nose:9876543210:1232:6
+josse:Ramirez:872140:7892:7
+Ximea:Copa:92574:9583:8
+Roxana:Aguirre:85214:4257:9

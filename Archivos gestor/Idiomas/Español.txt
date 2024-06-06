@@ -1,0 +1,98 @@
+Banco
+Bienvenido
+Creando tu futuro
+Crear una Cuenta
+Iniciar
+Sin Tarjeta
+Seleccione tipo de cuenta que desea crear
+Cuenta principal
+Sub cuenta
+Aceptar
+Cancelar
+Corrección
+Salir
+Atrás
+Menú
+Llene los siguientes datos
+Nombre
+Apellido
+Nro. Carnet
+Complete todos los campos
+Cuenta creada exitosamente
+su pin es
+Cuenta ya existente
+Seleccione tipo de sub cuenta que desea crear
+Ingrese Ci
+Cuenta Corriente
+Cuenta Ahorro
+Dólares
+Bolivianos
+Euros
+Yuanes
+El usuario principal que ingreso no existe
+Sub cuenta creada exitosamente - Nro. Cuenta
+Sub cuenta ya existente
+INTRODUZCA SU PIN
+PIN INCORRECTO
+Introduzca datos de la cuenta
+CI
+PIN
+DATOS INCORRECTOS
+Seleccione el servicio deseado
+Deposito
+Retiro
+Servicios
+Cambio de pin
+Consulta de saldo
+Extracto
+Transferencia
+Otros
+Selecciona que tipo de
+depósito desea realizar
+Cuenta propia
+Cuenta terceros
+Ingrese la cantidad 
+de dinero a depositar
+Ingrese la cuenta a la que desea depositar
+La cuenta no existe
+Ingrese un monto
+Total ingresado 
+hasta el momento
+Cantidad
+¿Esto es correcto?
+Agregar mas
+Confirmar
+Deposito realizado
+Correctamente
+Deseas un recibo?
+Gracias por utilizar
+nuestros servicios
+Ingrese la cantidad 
+de dinero a retirar
+Saldo insuficiente
+Retiro realizado
+Seleccione el servicio que desea pagar
+Ingrese su clave actual
+Ingrese su clave nueva
+Reingrese la nueva clave
+Tape el teclado mientras digite su clave
+Cambios realizados con éxito
+Detalles
+Fecha
+Saldo actual
+Cuenta
+Selecciona que tipo de
+operación que desea realizar
+Ver últimos movimientos
+Últimos movimientos
+Ingrese la cuenta a la que desea transferir
+Ingrese la cantidad
+de dinero a transferir
+Ingrese el motivo de
+la transferencia
+Detalles de transferencia
+Cuenta a transferir
+Monto a transferir
+Motivo de la transferencia
+SI
+NO
